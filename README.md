@@ -1,5 +1,5 @@
 # MCILSS
-Multi‑view clustering indicator learning with scaled similarity was accepted by Pattern Analysis and Applications
+Multi‑view clustering indicator learning with scaled similarity was accepted by Pattern Analysis and Applications.
   
 @article{yao2023multi,
   title={Multi-view clustering indicator learning with scaled similarity},
